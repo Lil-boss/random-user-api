@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Bob Brown",
+    "gender": "male",
+    "contact": "(767) 362-9740",
+    "address": "3342 Robinson Rd",
+    "photoUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Salvador Rhodes",
+    "gender": "male",
+    "contact": "(965) 425-3408",
+    "address": "3608 Royal Ln",
+    "photoUrl": "https://randomuser.me/api/portraits/men/29.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Clayton Fletcher",
+    "gender": "male",
+    "contact": "(448) 507-7591",
+    "address": "3821 Lovers Ln",
+    "photoUrl": "https://randomuser.me/api/portraits/men/95.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Judy Kuhn",
+    "gender": "female",
+    "contact": "(347) 664-3007",
+    "address": "8051 E Little York Rd",
+    "photoUrl": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Rebecca Ray",
+    "gender": "female",
+    "contact": "(340) 445-5721",
+    "address": "6319 Spring Hill Rd",
+    "photoUrl": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Ben Webb",
+    "gender": "male",
+    "contact": "(649) 528-9775",
+    "address": "7015 Brown Terrace",
+    "photoUrl": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Carla Dixon",
+    "gender": "female",
+    "contact": "(661) 608-4441",
+    "address": "3745 W 6th St",
+    "photoUrl": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Wesley Martin",
+    "gender": "male",
+    "contact": "(469) 391-6672",
+    "address": "7827 First Street",
+    "photoUrl": "https://randomuser.me/api/portraits/men/82.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Rafael Harris",
+    "gender": "female",
+    "contact": "(692) 591-8276",
+    "address": "4358 Valwood Pkwy",
+    "photoUrl": "https://randomuser.me/api/portraits/men/26.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Amber Shaw",
+    "gender": "female",
+    "contact": "(238) 925-3038",
+    "address": "2288 Rolling Green Rd",
+    "photoUrl": "https://randomuser.me/api/portraits/women/41.jpg"
+  }
+]
