@@ -12,7 +12,9 @@ app.use("/api/v1", userRoute);
 app.use("/api/v1", (req, res) => {
   res.send("Welcome To Random User System");
 });
-
+app.all("/", (res, req) => {
+  res.send("Welcome Home");
+});
 app.all("*", (res, req) => {
   res.send("No File path found");
 });
