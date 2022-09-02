@@ -12,10 +12,10 @@ app.use("/api/v1", userRoute);
 app.use("/api/v1", (req, res) => {
   res.send("Welcome To Random User System");
 });
-app.all("/", (res, req) => {
+app.all("/", (req, res) => {
   res.send("Welcome Home");
 });
-app.all("*", (res, req) => {
+app.all("*", (req, res) => {
   res.send("No File path found");
 });
 
